@@ -117,3 +117,5 @@ Thumbs.db
 src/lib/
 
 node_modules
+
+/dist.zip
